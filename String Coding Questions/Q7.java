@@ -1,8 +1,8 @@
 //You need to write a program to print all duplicate character and their count in Java. For 
-example, if given String is "Programming" then your program should print
-g : 2
-r : 2
-m : 2
+//example, if given String is "Programming" then your program should print
+//g : 2
+//r : 2
+//m : 2
 
 
 

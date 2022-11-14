@@ -1,7 +1,7 @@
 //How to reverse words in a sentence without using a library method?
 
 
- Java program to reverse a string
+// Java program to reverse a string
 // s = input()
 public class Q14
 {

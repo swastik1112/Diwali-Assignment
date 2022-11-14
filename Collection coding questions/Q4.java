@@ -1,7 +1,7 @@
 //Write a Java program to sort a given array list.
 
 
- Java Program to Sort an ArrayList
+ //Java Program to Sort an ArrayList
  
 
 import java.util.*;

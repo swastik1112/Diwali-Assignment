@@ -28,4 +28,3 @@ import java.util.*;
   System.out.println(list_Strings);
  }
 }
-Sample Output:
